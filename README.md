@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aryadptr
+- 👋 Hi, my name Arya Dwi Putra
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Laravel and Javascript
 - 💞️ I’m looking to collaborate on mini project
