@@ -1,6 +1,6 @@
 - 👋 Hi, my name Arya Dwi Putra
 - 👀 I’m interested in Web and Mobile Programming
-- 🌱 I’m currently learning Laravel, VueJS and ReactJS
+- 🌱 I’m currently learning Laravel, VueJS, ReactJS and Flutter
 - 📫 How to reach me? Please email to aryaadwptr@gmail.com or direct message to instagram @arya.dptr
 
 <!---
