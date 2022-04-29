@@ -1,7 +1,5 @@
 ### Hi there, I'm Arya Dwi Putra👋
 
-## I'm a Student, Boyfriend and Developer!
-
 - 👀 I’m interested in Web and Mobile Programming
 - 🌱 I’m currently learning Laravel, VueJS, ReactJS and Flutter
 - 👯 I’m looking to collaborate with other developers
